@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby: 2.4.2
 
 * System dependencies
 
@@ -22,6 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# docker-rails-pg-pgadmin
-# docker-rails-pg-pgadmin
 # docker-rails-pg-pgadmin
